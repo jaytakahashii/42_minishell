@@ -7,7 +7,7 @@
 </p>
 
 # ☔️ Remaining issues
-1. **Currently under revision**: Cannot `cd` back to root directory (Had this been cured, it would have been 100 points.)
+1. **Currently under revision**: Currently unable to execute cd to the root directory (Had this been cured, it would have been 100 points.)
    
 
 # 💡 About the project
@@ -60,7 +60,7 @@ $ make
 ```
 
 **2. Run**
-After creating the executable file `minishell`, you must do it file.
+After building the executable file minishell, run it with:
 
 ```shell
 ./minishell
